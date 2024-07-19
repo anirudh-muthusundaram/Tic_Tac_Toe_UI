@@ -1,0 +1,8 @@
+[package]
+name = "tic_tac_toe_UI"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+egui = "0.17"
+eframe = "0.17.0"
